@@ -12,4 +12,7 @@ The E-commerce Customer Behavior dataset contains customer transactions from an 
 • UnitPrice: The unit price of the product.
 • Customer ID: The unique identifier of the customer.
 • Country: The country where the transaction took place.
+
+
 Objective:
+The objective of this project is to analyze the customer data and predict their lifetime value. The lifetime value is a prediction of the total revenue that a customer will generate for the business over their entire relationship.
